@@ -1,0 +1,6 @@
+Dear Sir or Madam,
+
+I am a text file. Like most text files you will deal with in Python, I am encoded in UTF-8, but be aware some Windows machines encode text files as cp-1252 ... so if you run into weird errors when inputting information, that may be the reason.
+
+Very truly yours,
+Text File

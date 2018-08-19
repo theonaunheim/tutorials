@@ -1,0 +1,63 @@
+Date,Count,Weird Date,Weird Count
+12/1/2016,11,"	Thursday,  December 01, 2016",11
+12/2/2016,,"Friday, December 02, 2016",
+12/3/2016,49,"Saturday, December 03, 2016",49
+12/4/2016,48,,48
+12/5/2016,29,"Monday, December 05, 2016",29
+12/6/2016,,"Tuesday, December 06, 2016",
+12/7/2016,36,"Wednesday, December 07, 2016",36
+12/8/2016,45,"Thursday, December 08, 2016",45
+12/9/2016,40,"Friday, December 09, 2016",40
+12/10/2016,22,"Saturday, December 10, 2016",22
+12/11/2016,22,"Sunday, December 11, 2016",22
+12/12/2016,40,"Monday, December 12, 2016",40
+12/13/2016,25,"Tuesday, December 13, 2016",25
+12/14/2016,50,"Wednesday, December 14, 2016",50
+12/15/2016,35,"	Thursday, December 15, 2016",35
+12/16/2016,34,"Friday, December 16, 2016",34
+12/17/2016,37,"Saturday, December 17, 2016",37
+12/18/2016,30,"Sunday, December 18, 2016",30
+12/19/2016,5,"Monday, December 19, 2016",5
+12/20/2016,0,"Tuesday, December 20, 2016",0
+12/21/2016,32,"Wednesday, December 21, 2016",32
+12/22/2016,30,"Thursday, December 22, 2016",30
+12/23/2016,29,"Friday, December 23, 2016",29
+12/24/2016,27,,27
+12/25/2016,17,"Sunday, December 25, 2016",17
+12/26/2016,45,"Monday, December 26, 2016",45
+12/27/2016,38,"Tuesday, December 27, 2016",38
+12/28/2016,37,"Wednesday, December 28, 2016",37
+12/29/2016,21,"Thursday, December 29, 2016",21
+12/30/2016,19,"Friday, December 30, 2016",19
+12/31/2016,17,"Saturday, December 31, 2016",17
+1/1/2017,50,"Sunday, January 01, 2017",50
+1/2/2017,1,"Monday, January 02, 2017",1
+1/3/2017,,"Tuesday, January 03, 2017",No Value
+1/4/2017,32,"Wednesday, January 04, 2017",32
+1/5/2017,47,"Thursday, January 05, 2017",47
+1/6/2017,24,"Friday, January 06, 2017",24
+1/7/2017,43,"	Saturday, January 07, 2017",43
+1/8/2017,45,"Sunday, January 08, 2017",45
+1/9/2017,28,"Monday, January 09, 2017",28
+1/10/2017,,"Tuesday, January 10, 2017",No Value
+1/11/2017,41,"Wednesday, January 11, 2017",41
+1/12/2017,37,"Thursday, January 12, 2017",37
+1/13/2017,31,"Friday, January 13, 2017",31
+1/14/2017,26,,26
+1/15/2017,11,"Sunday, January 15, 2017",11
+1/16/2017,35,"Monday, January 16, 2017",35
+1/17/2017,15,"Tuesday, January 17, 2017",15
+1/18/2017,20,"Wednesday, January 18, 2017",20
+1/19/2017,25,"Thursday, January 19, 2017",25
+1/20/2017,17,"Friday, January 20, 2017",17
+1/21/2017,38,"Saturday, January 21, 2017",38
+1/22/2017,8,,8
+1/23/2017,0,"Monday, January 23, 2017",0
+1/24/2017,47,"Tuesday, January 24, 2017",47
+1/25/2017,43,"Wednesday, January 25, 2017",43
+1/26/2017,46,"	Thursday, January 26, 2017",46
+1/27/2017,,"Friday, January 27, 2017",No Value
+1/28/2017,24,"Saturday, January 28, 2017",24
+1/29/2017,17,"Sunday, January 29, 2017",17
+1/30/2017,4,"Monday, January 30, 2017",4
+1/31/2017,50,,50
