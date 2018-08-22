@@ -16,7 +16,7 @@ It also contains the following Python data analysis tutorials that also require 
     * 103: Pandas Basics Part 2 (incomplete)
     * 104: Pandas Basics Part 3 (incomplete)
     * 201: Cleaning Data
-    * 202: Automation Basics (not yet uploaded)
+    * 202: Automation Basics
     * 203: Machine Learning Basics
 
 See "!README.txt" in the presentation folders for details on how to set up your Python environment to follow along with these tutorials. Most of that can be summarized by: 1) download Python and/or Anaconda; 2) put the presentation folder on your desktop; and, 3) open the introductory notebook or Python module.
