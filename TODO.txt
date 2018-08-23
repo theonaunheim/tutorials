@@ -1,0 +1,42 @@
+Intermediate Matplotlib
+
+Practical Pandas Part 1 (The Foundation)
+    1. Introduction and Origin
+    2. About Pandas, numpy,
+    3. Concepts
+        a. Dataframe
+        b. Series
+        c. Index
+    4. Indexing and Slicing
+        a. Boolean
+        b. Setting indexes
+        c. loc and iloc
+    5. Datatypes
+
+Practical Pandas Part 2 (The Dataframe)
+    1. Introduction (stolen from R)
+    2. The dataframe (construction and background)
+    3. Composition and use
+    4. Dataframe methods
+    5. Dataframe manipulatio
+    6. Graphing
+
+Practical Pandas Part 3 (The Series)
+    1. Introduction
+    2. The series
+    3. Methods.
+    4. String Namespace
+    5. Datetime Namespace
+    6. Exercises
+    7. Solutions
+
+Practical Pandas Part 4 (The Fancy)
+    1. Groupby
+        a. Builtin methods
+        b. agg
+        c. apply
+        d. transform
+    2. Multiindex
+    3. Stack/Unstack
+    4. Rolling
+    5. Bric-a-brac top level

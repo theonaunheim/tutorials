@@ -12,9 +12,6 @@ It also contains the following Python data analysis tutorials that also require 
 
 * **Journeys in Jupyter**
     * 101: Jupyter Ecosystem
-    * 102: Pandas Basics Part 1 (incomplete)
-    * 103: Pandas Basics Part 2 (incomplete)
-    * 104: Pandas Basics Part 3 (incomplete)
     * 201: Cleaning Data
     * 202: Automation Basics
     * 203: Machine Learning Basics
