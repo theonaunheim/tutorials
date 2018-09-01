@@ -1,6 +1,8 @@
 # tutorials
 MIT-licensed tutorials related to Python and Python data analysis
 
+Video walkthroughs of these tutorials and the manner in which they are set up are being made available [here](https://www.youtube.com/playlist?list=PL0K68QsPLDasgvcTuDnNCF5JX21o2YX67)
+
 This repository contains the following Python tutorials that require only Python:
 
 * **Python Sessions**
@@ -8,10 +10,10 @@ This repository contains the following Python tutorials that require only Python
     * 201: Intro for Devs Part 1
     * 202: Intro for Devs Part 2
 
-It also contains the following Python data analysis tutorials that also require the Jupyter Notebook and a variety of other Python packages (most easily obtained via the Anaconda3 distribution [here](https://www.anaconda.com/download/)).
+It also contains the following Python data analysis tutorials that are presented via the Jupyter Notebook and a variety of other Python packages (most easily obtained via the Anaconda3 distribution [here](https://www.anaconda.com/download/)):
 
 * **Journeys in Jupyter**
-    * 101: Jupyter Ecosystem
+    * 101: Python Data Ecosystem
     * 201: Cleaning Data
     * 202: Automation Basics
     * 203: Machine Learning Basics

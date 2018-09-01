@@ -12,6 +12,9 @@ Practical Pandas Part 1 (The Foundation)
         b. Setting indexes
         c. loc and iloc
     5. Datatypes
+        a. NaN
+        b. float
+        c. object
 
 Practical Pandas Part 2 (The Dataframe)
     1. Introduction (stolen from R)

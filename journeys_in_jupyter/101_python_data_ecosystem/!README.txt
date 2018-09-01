@@ -3,14 +3,15 @@ AUTHOR    : Theo Naunheim <theonaunheim@gmail.com>
 REVISED   : 2018-08-20
 LICENSE   : MIT
 WARNING   : This is a Windows only tutorial.
-NAME      : Introduction to the Jupyter Ecosystem 
+NAME      : Introduction to the Python Data Ecosystem 
 
 ===
 Generally
 ===
-This presentation provides an introduction to the Jupyter Notebook and the
-other freely available Python data analysis tools our there. It is made up
-entirely of Jupyter Notebook files and is divided as follows:
+This presentation provides an introduction to the Jupyter Notebook (our 
+user interface) and the other freely available Python data analysis tools 
+out there. It is made up entirely of Jupyter Notebook files and is divided 
+as follows:
 
 1) "1_introduction"
     Pretty much like it sounds.
@@ -43,7 +44,7 @@ entirely of Jupyter Notebook files and is divided as follows:
 Requirements
 ===
 This presentation is intended to be stepped through in an interactive manner
-under the guidance of an instructor. THe presentation requires the Jupyter
+under the guidance of an instructor. The presentation requires the Jupyter
 Notebook and a variety of pacakges which can most easily be obtained here
 for free:
 
@@ -52,8 +53,8 @@ https://www.anaconda.com/download
 Anaconda is a Python distribution that comes prepackaged with a variety of
 data analysis and automation software packages.
 
-Alternatively they can be installed through your organization's software 
-installation or provisioning process.
+Alternatively they can be installed through 1) your organization's software 
+installation or provisioning process; 2) your operating system's package manager (if applicable); or 3) the pip Python package manager.
 
 This has only been tested with Microsoft Windows 10 and Anaconda3 version
 5.2.0.
