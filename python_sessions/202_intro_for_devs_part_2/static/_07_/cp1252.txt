@@ -1,3 +1,0 @@
-If a thousand monkeys type for a thousand years, one of them will eventually write a Java program. 
-
-The rest of them will write Perl programs.

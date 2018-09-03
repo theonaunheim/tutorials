@@ -1,3 +1,0 @@
-¯\_(ツ)_/¯
-
-The above shrug will fail with an ASCII encoding.
