@@ -8,9 +8,9 @@
 
 Before we begin: "A Whitespace Haiku", by Teddy K:
 
-    Tabs in Python source code files:
-    abominable.
-    Everyone will hate you.
+    Tabs in Python code? 
+    You may want to rethink that.
+    People will hate you.
 
 PLEASE DO NOT MIX SPACES AND TABS.
 '''
