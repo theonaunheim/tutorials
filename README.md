@@ -8,5 +8,6 @@ It contains the following Python data analysis tutorials that are presented via 
 * **Journeys in Jupyter**
     * 101: Python Data Ecosystem
     * 201: Cleaning Data
+    * 202: Basic Automation
 
 See "!README.txt" in the presentation folders for details on how to set up your Python environment to follow along with these tutorials. Most of that can be summarized by: 1) download Python and/or Anaconda; 2) put the presentation folder on your desktop; and, 3) open the introductory notebook or Python module.
