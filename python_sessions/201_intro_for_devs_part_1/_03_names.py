@@ -14,6 +14,8 @@
 ## of this this presentation we will use the words 'variable' and 'name'
 ## interchangably.
 ##
+## Excellent overview here: https://nedbatchelder.com/text/names1.html
+##
 ## We use the equals ('=') operator to 'assign' or bind a Python object to a
 ## name. It looks like this:
 my_variable = 5
