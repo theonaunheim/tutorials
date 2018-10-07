@@ -77,7 +77,7 @@ print('No errors so far!')
 ## for the most part, it can result in problems.
 
 # Say I have a name that I point at a number ...
-score = 90
+x = 90
 
 # I can do whatever I want with the number ...
 percent = x / 100.0

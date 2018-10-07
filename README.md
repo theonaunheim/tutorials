@@ -1,9 +1,16 @@
 # tutorials
-MIT-licensed tutorials related to Python and Python data analysis
+MIT-licensed tutorials related to Python and Python data analysis libraries.
 
-Video walkthroughs of these tutorials and the manner in which they are set up are being made available [here](https://www.youtube.com/playlist?list=PL0K68QsPLDasgvcTuDnNCF5JX21o2YX67).
+The first set of tutorials is purely related to Python:
 
-It contains the following Python data analysis tutorials that are presented via the Jupyter Notebook and a variety of other Python packages (most easily obtained via the Anaconda3 distribution [here](https://www.anaconda.com/download/)):
+* **Python Tutorials**
+    * 101: Python for Newbies
+    * 201: Python for Devs (Part 1)
+    * 202: Python for Devs (Part 2)
+
+Videos of these Python tutorials and the instructions for setting up your environment to execute the presentation are found here [here](https://www.youtube.com/playlist?list=PL0K68QsPLDatdljp-9M3eP3W086y98ruc). These Python tutorials unsurprisingly require Python, which is available for free via [Python.org](https://www.python.org/downloads/).
+
+The second set of tutorials is related to Python data analysis libraries and processing data via Jupyter:
 
 * **Journeys in Jupyter**
     * 101: Python Data Ecosystem
@@ -11,4 +18,5 @@ It contains the following Python data analysis tutorials that are presented via 
     * 202: Basic Automation
     * 203: Basic Machine Learning
 
-See "!README.txt" in the presentation folders for details on how to set up your Python environment to follow along with these tutorials. Most of that can be summarized by: 1) download Anaconda; 2) put the presentation folder on your desktop; and, 3) open the introductory notebook via Jupyter.
+Videos of the Jupyter tutorials and instructions for setting up your environment are found [here](https://www.youtube.com/playlist?list=PL0K68QsPLDasgvcTuDnNCF5JX21o2YX67). These tutorials require the Jupyter notebook, which can be most easily be downloaded for free via [Anaconda.org](https://www.anaconda.com/download/).
+
