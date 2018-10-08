@@ -29,8 +29,8 @@ class BasicObject(object):
     def __init__(self):
         self.attribute_1 = 'Basic attribute'
 
-    def method(self):
-        print('I am a method taking an argument: ' + arg_1)
+    def method(self, arg_1):
+        print('I am a method taking an argument: ' + str(arg_1))
         print('I can reference ' + self.attribute_1)
         return 'Return value'
 
@@ -72,8 +72,8 @@ class BasicObject(object):
 ## instance. It needs to be instantiated.
 
 
-class FancyObject(object, dict):
-    '''Docstring. Object inherits from 2 things. DANGER!.'''
+class FancyObject(object):
+    '''Docstring.'''
 
     cls_attribute = 'I am shared between all instances of this class!'
 
@@ -116,7 +116,7 @@ class FancyObject(object, dict):
 basic = BasicObject()
 
 # And then use its methods.
-return_value = basic.method()
+return_value = basic.method(5)
 
 # We can instantiate items that require initial arguments
 fancy = FancyObject(1, 2)
@@ -142,7 +142,8 @@ class A(object):
         print("Hello, world!")
 
 
-class B(A):
+class B(A, object):
+    '''Not only is this nonsensical, multiple inherentence is frowned on.'''
     def __init__(self):
         pass
 

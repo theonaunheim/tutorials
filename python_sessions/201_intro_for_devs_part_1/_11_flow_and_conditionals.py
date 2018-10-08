@@ -99,7 +99,7 @@ while True:
 for x in range(0,10):
     my_integer = x
 
-print(f'The last value of my integer was {my_integer).')
+print(f'The last value of my integer was {my_integer}.')
 
 ##=============================================================================
 ## Loop Flow

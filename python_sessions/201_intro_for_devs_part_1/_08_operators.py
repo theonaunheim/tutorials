@@ -123,7 +123,7 @@ import os
 import pathlib
 root = pathlib.Path('C:/')
 this_folder = root / 'Users' / os.environ['USERNAME'] / 'Desktop'
-/
+
 # '//' floored or truncating division of two items.
 7 // 3      # 2
 

@@ -84,8 +84,8 @@ print(list_3)
 list_3.reverse()
 print(list_3)
 
-# sort() you can supply custom keys
-list_3.sort()
+# sort() you can supply custom keys (here by hash)
+list_3.sort(key=id)
 print(list_3)
 
 # index()
@@ -204,11 +204,12 @@ print(my_dict.keys())
 # values()
 print(my_dict.values())
 
-# setdefault()
-my_dict['nonexistant key']
-my_dict.setdefault(None)
-print(my_dict['nonexistent_key'])
-print(my_dict)
+# Note, asking for non-present keys raises an error
+try:
+    my_dict['nonexistant key']
+# 'nonexistent key' in my_dict would have taken care of this.
+except KeyError as e:
+    print(e)
 
 # update()
 my_dict.update({'new_key_1': 'new_value_1', 'new_key_2': 'new_value_2'})
@@ -251,7 +252,7 @@ diff_2 = set_2.difference(set_1)
 print(diff_2)
 
 # discard
-set_1.discart(1000)
+set_1.discard(1000)
 print(set_1)
 
 # intersection

@@ -95,10 +95,10 @@ def scope_example():
 print(var_1)
 
 # This fails because var_2 is defined solely inside the function.
-print(var_2)
+# print(var_2)
 
 # This does not work because var_3 is defined inside the funciton.
-print(var_3)
+# print(var_3)
 
 # This works because the value of var_3 was returned from scope.
 quasi_var_3 = scope_example()

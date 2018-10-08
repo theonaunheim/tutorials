@@ -101,8 +101,8 @@ examples = [types.ModuleType]
 # Functions are dealt with in the function section
 examples = [types.FunctionType]
 
-# Classes and methods are dealt with in the classes section.
-examples = [types.ClassType, types.MethodType]
+# Methods are dealt with separately from functions.
+examples = [types.MethodType]
 
 ##=============================================================================
 ## Questions?

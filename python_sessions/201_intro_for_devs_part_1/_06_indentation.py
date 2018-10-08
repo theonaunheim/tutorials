@@ -186,7 +186,7 @@ finally:
 
 # Context:
 #     with: context manager, use varies.
-with open('_10_containers.py', 'r') as f:
+with open('_01_intro.py', 'r') as f:
     print("Looking at linecount.")
     print(len(f.readlines()))
 
