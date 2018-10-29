@@ -13,10 +13,10 @@ Videos of these Python tutorials and the instructions for setting up your enviro
 The second set of tutorials is related to Python data analysis libraries and processing data via Jupyter:
 
 * **Journeys in Jupyter**
-    * 101: Python Data Ecosystem
-    * 201: Cleaning Data
-    * 202: Basic Automation
-    * 203: Basic Machine Learning
+    * [101: Python Data Ecosystem](https://nbviewer.jupyter.org/github/theonaunheim/tutorials/blob/nbviewer/journeys_in_jupyter/101_python_data_ecosystem/1_introduction.ipynb)
+    * [201: Cleaning Data](https://nbviewer.jupyter.org/github/theonaunheim/tutorials/blob/nbviewer/journeys_in_jupyter/201_cleaning_data/1_introduction.ipynb)
+    * [202: Basic Automation](https://nbviewer.jupyter.org/github/theonaunheim/tutorials/blob/nbviewer/journeys_in_jupyter/202_automation_basics/1_introduction.ipynb)
+    * [203: Basic Machine Learning](https://nbviewer.jupyter.org/github/theonaunheim/tutorials/blob/nbviewer/journeys_in_jupyter/203_machine_learning_basics/1_introduction.ipynb)
 
 Videos of the Jupyter tutorials and instructions for setting up your environment are found [here](https://www.youtube.com/playlist?list=PL0K68QsPLDasgvcTuDnNCF5JX21o2YX67). These tutorials require the Jupyter notebook, which can be most easily be downloaded for free via [Anaconda.org](https://www.anaconda.com/download/).
 
