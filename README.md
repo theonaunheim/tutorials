@@ -14,6 +14,7 @@ The second set of tutorials is related to Python data analysis libraries and pro
 
 * **Journeys in Jupyter**
     * 101: Python Data Ecosystem [View on NBViewer](https://nbviewer.jupyter.org/github/theonaunheim/tutorials/blob/nbviewer/journeys_in_jupyter/101_python_data_ecosystem/1_introduction.ipynb)
+    * 104: Pandas Series Part 1 [View on NBViewer](https://nbviewer.jupyter.org/github/theonaunheim/tutorials/blob/nbviewer/journeys_in_jupyter/104_pandas_series_part_1/1_introduction.ipynb)
     * 201: Cleaning Data [View on NBViewer](https://nbviewer.jupyter.org/github/theonaunheim/tutorials/blob/nbviewer/journeys_in_jupyter/201_cleaning_data/1_introduction.ipynb)
     * 202: Basic Automation [View on NBViewer](https://nbviewer.jupyter.org/github/theonaunheim/tutorials/blob/nbviewer/journeys_in_jupyter/202_automation_basics/1_introduction.ipynb)
     * 203: Basic Machine Learning [View on NBViewer](https://nbviewer.jupyter.org/github/theonaunheim/tutorials/blob/nbviewer/journeys_in_jupyter/203_machine_learning_basics/1_introduction.ipynb)
