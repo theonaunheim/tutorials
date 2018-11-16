@@ -8,7 +8,7 @@ NAME      : Pandas Series Part 1
 ===
 Generally
 ===
-This presentation is part of a series of presentations on the pandas data analysis library for the Python language. This specific presentation focuses on the library itself and high-level concepts needed for using the library.
+This presentation is part of a series of presentations on the pandas data analysis library for the Python language. This specific presentation focuses on the library itself and an overview of the "Series" object, and specifically on indexing Series objects. 
 
 1) "1_introduction"
     Pretty much like it sounds.
