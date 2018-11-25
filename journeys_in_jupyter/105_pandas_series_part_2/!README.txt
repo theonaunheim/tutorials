@@ -19,16 +19,10 @@ This presentation is part of a series of presentations on the pandas data analys
 3) "3_advanced_methods"
     Methods that require a firmer understanding of the Series. 
 
-4) "4_datetime_methods"
-    Time-specific stuff is useful. Tick tock, yo. 
-
-5) "5_datatypes"
-    Boring, but important. 
-
-6) "6_foundation_exercises"
+4) "4_series_part_2_exercises"
     Practice for the items you've just learned.
 
-7) "7_foundation_solutions"
+5) "5_series_part_2_solutions"
     Solutions if you're too lazy to practice what you've just learned. 
 
 ===
